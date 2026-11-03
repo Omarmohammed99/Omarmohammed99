@@ -1,6 +1,6 @@
 <div align="center">
 
-# Omar Mohamed 👋
+# Omar Mohamed 
 ### **AI Engineer & Data Scientist** 
 *Specializing in Scalable Backend Architectures & Generative AI Applications*
 
